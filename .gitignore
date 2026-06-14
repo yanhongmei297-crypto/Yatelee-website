@@ -11,10 +11,10 @@ source-materials/
 *.webp
 !public/images/**
 
-homepage-preview.html
-contact-us/
-inquiry/
-products/
+/homepage-preview.html
+/contact-us/
+/inquiry/
+/products/
 
 yatelee-independent-site-plan.md
 PROJECT-BRIEF.md
